@@ -1,5 +1,5 @@
 # ngram_ecology
-Data and analysis of ecology-related word frequencies
+Data and analysis of word frequencies
 
 Data sets of work frequencies in Google Books to measure diachronistic changes in word use.
 
