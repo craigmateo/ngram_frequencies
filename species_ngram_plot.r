@@ -1,5 +1,5 @@
 
-# Get the input values.
+# Plot the ngram frequency 
 input <- species_ngram_NA_normalized[,c('year','AVG')]
 
 png(file = "scatterplot.png")
@@ -13,3 +13,4 @@ plot(x = input$wt,y = input$mpg,
 )
 	 
 dev.off()
+
