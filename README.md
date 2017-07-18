@@ -1,7 +1,11 @@
 # ngram_ecology
-Data and analysis of word frequencies
+Analysis of word frequencies
 
-Data sets of work frequencies in Google Books to measure diachronistic changes in word use.
+The data sets are of word frequencies from Google Books and the Corpus of Historical American English (COHA). The data are used to test the hypothesis that with urbanization linguistic references to other species declines (trees, plants, mammals, reptiles, birds, etc.)
 
-These data sets are used to test the hypothesis that with urbanization and industrialization linguistic references to other species declines. 
+#############################################################################
+#  Null Hypothesis: there is no relationship between the urbaniztion rate   # 
+#  and frequency of ngrams referring to other species.                      #
+#############################################################################
+
 
