@@ -18,7 +18,7 @@ There are two parts: an examination of frequency of common names of species foll
 * **figure4.py** plotting/statistical analysis for British frequency and population data (1850-1920)
 
 #### coha_data:
-* **speciesname.csv (*caribou.csv*, *elm.csv*, etc.) - key word in context (kwic) lines from the [Corpus of Historical American English](https://corpus.byu.edu/coha/)
+* **speciesname.csv** (*caribou.csv*, *elm.csv*, etc.) - key word in context (kwic) lines from the [Corpus of Historical American English](https://corpus.byu.edu/coha/)
 * **COHA_normalized.csv** - frequency data from the Corpus of Historical American English
 * **coha_content.csv** - data for the composition of the COHA corpus
 * **sentiment.py** - sentiment analysis script: uses Natural Language Toolkit (NLTK) and [SentiWordNet](http://www.nltk.org/_modules/nltk/corpus/reader/sentiwordnet.html) for aspect-level sentiment of adjective/target-noun pairs  
@@ -26,15 +26,10 @@ There are two parts: an examination of frequency of common names of species foll
 * **final.csv** - retained kwic lines from *annotated.csv*
 * **figure5.py** - plotting/statistical analysis of sentiment analysis results  
 
-
 ### Prerequisites
 
 #### Python Packages and Modules
-*pandas*
-*numpy*
-*scipy*
-*matplotlib*
-*nltk*
+*pandas*, *numpy*, *scipy*, *matplotlib*, *nltk*
 
 ## Authors
 
