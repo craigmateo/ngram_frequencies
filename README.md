@@ -7,7 +7,7 @@ There are two parts: an examination of frequency of common names of species foll
 ## Files
 
 #### google_books_data:
-* **getngrams.py** - python script to retrieve data behind the trajectories plotted on the Google Ngram Viewer. (For usage see [google-ngrams](https://github.com/econpy/google-ngrams) 
+* **getngrams.py** - python script to retrieve data behind the trajectories plotted on the Google Ngram Viewer. (For usage see [google-ngrams](https://github.com/econpy/google-ngrams))
 * **species_ngram_NA_normalized.csv** & **species_ngram_BR_normalized.csv** - data collected by running getngrams.py on each species name. Normalized with respect to the average. (NA: American, BR: British)  
 * **NA_google_data_normalized.csv** & **BR_google_data_normalized.csv** - summary of species_ngram_NA_normalized. (Used for plotting) 
 * **rural_pop_US.csv** & **rural_pop_BR.csv** - percent of populaton rural
