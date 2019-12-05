@@ -4,7 +4,7 @@ Data and analysis for a study that uses the two largest available American Engli
 
 There are two parts: an examination of frequency of common names of species followed by aspect-level sentiment analysis of concordance lines.
 
-Research findings are forthcoming in the journal [Corpora](https://www.euppublishing.com/loi/COR). 
+Research findings are published in the journal [Corpora](https://www.euppublishing.com/doi/abs/10.3366/cor.2019.0177). 
 
 ## Files
 
